@@ -3,6 +3,8 @@ This is my Portfolio site, it allows me to contain all of my projects and experi
 
 I built this using: html, css & javascript.
 
+ai was used in debugging, the rest was 3 tedious hours of coding..
+
 ## Ideas surrounding the site
 
 I wanted a minimalistic, simple site; using 2 complementary colours and a minimal amount of icons.
